@@ -15,14 +15,14 @@ nav
 {
     height: 50px;
     background-color: #e579e6;
-    margin-bottom: 20px;
+    margin-top: 20px;
 }
 
 header
 {
     height: 400px;
     background-color: #e1d67a;
-    margin-bottom: 20px;
+    margin: 20px 0px;
 }
 
 main
@@ -66,7 +66,8 @@ main
 }
 
 footer
-{
+{   
+    margin-bottom: 20px;
     height: 40px;
     background-color: #8801fe;
 }
