@@ -48,7 +48,7 @@ main
     clear: both;
 }
 
-.col
+.col-left, .col-center, .col-right
 {
     background-color: #abcfe7;
     float: left;
